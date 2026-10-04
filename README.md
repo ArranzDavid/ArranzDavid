@@ -13,6 +13,7 @@ david — software developer
 $ cat interests.txt
 → agentic coding
 → building small apps for personal use
+→ customizing Omarchy & building plugins for it
 
 $ echo $LANG
 es_ES, en_US
